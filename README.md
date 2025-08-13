@@ -6,5 +6,3 @@ Esse repositorio deve ser utilizando como referência para as aula bonus do curs
 * Execução no Github Actions[branch action-config]
 
 Você pode realizar o fork desse projeto para fins de estudo💖
-
-Checkout to see if actions take any action
